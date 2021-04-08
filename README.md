@@ -12,7 +12,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=luismgil&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=luismgil&theme=great-gatsby&show_icons=true"
     />
   </a>
 </p>
