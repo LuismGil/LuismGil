@@ -5,7 +5,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismgil&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismgil&theme=great-gatsby&show_icons=true&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
