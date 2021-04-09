@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a junior web developer, studying to be a FullStack developer.
+
 </br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,7 +19,7 @@
   </a>
 </p>
 
-SKILLS:
+### Skills :computer::
 
 <hr/>
 <p align="center">
@@ -33,9 +35,13 @@ SKILLS:
 
 📫 How to reach me: ...
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giltorresluis/)
+<p align="center">
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luism6977@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giltorresluis/)
+
+  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luism6977@gmail.com)
+  
+</p>
 
 <!--
 **LuismGil/LuismGil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
