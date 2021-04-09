@@ -17,6 +17,23 @@
   </a>
 </p>
 
+SKILLS:
+
+<hr/>
+
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+📫 How to reach me: ...
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giltorresluis/)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luism6977@gmail.com)
+
 <!--
 **LuismGil/LuismGil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
