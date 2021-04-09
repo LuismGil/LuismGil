@@ -5,14 +5,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismgil&theme=great-gatsby&show_icons=true&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismgil&theme=flag-india&show_icons=true&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=luismgil&theme=great-gatsby&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api?username=luismgil&theme=flag-india&show_icons=true"
     />
   </a>
 </p>
