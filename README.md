@@ -1,6 +1,5 @@
-### Hi there 👋
-
-I am a junior web developer, studying to be a FullStack developer.
+### Hi there, I am Luis! 👋
+a junior web developer, studying to be a FullStack developer.
 
 </br>
 <p align="center">
@@ -19,7 +18,7 @@ I am a junior web developer, studying to be a FullStack developer.
   </a>
 </p>
 
-### Skills :computer::
+### My Skills :computer::
 
 <hr/>
 <p align="center">
@@ -30,14 +29,16 @@ I am a junior web developer, studying to be a FullStack developer.
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </p>
+<hr/>
 
 📫 How to reach me: ...
-  
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giltorresluis/)
-  
-  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luism6977@gmail.com)
+<p align="center">
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giltorresluis/)  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luism6977@gmail.com)
+</p>
   
 
 
