@@ -8,7 +8,7 @@ a junior web developer, studying to be a FullStack developer.
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismgil&theme=flag-india&show_icons=true&layout=compact&langs_count=8"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismgil&theme=flag-india&show_icons=true&layout=compact&langs_count=6"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
