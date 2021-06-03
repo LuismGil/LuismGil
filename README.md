@@ -27,6 +27,7 @@ a junior web developer, studying to be a FullStack developer.
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">  
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
@@ -42,7 +43,7 @@ a junior web developer, studying to be a FullStack developer.
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giltorresluis/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luism6977@gmail.com)
 
- ![Snake animation](https://github.com/LuismGil/LuismGil/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/luismgil/luismgil/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
