@@ -1,7 +1,7 @@
 ### Hi there, I am Luis! 👋
 a junior web developer, studying to be a FullStack developer.
 
-🌱 Now I’m currently learning Vue.js
+🌱 Now I’m currently learning Java
 
 </br>
 <p align="center">
