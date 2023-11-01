@@ -1,8 +1,6 @@
 ### Hi there, I am Luis! 👋
 a junior web developer, studying to be a FullStack developer.
 
-🌱 Now I’m currently learning Java
-
 </br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
