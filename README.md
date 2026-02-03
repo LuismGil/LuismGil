@@ -8,23 +8,6 @@ Frontend Developer focused on building **modern, scalable and maintainable web a
 - 🌎 PT / ES + Technical English • Open to remote opportunities
 
 <br/>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismgil&theme=flag-india&show_icons=true&layout=compact&langs_count=6"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=luismgil&theme=flag-india&show_icons=true"
-    />
-  </a>
-</p>
-
 ---
 
 ### ⭐ Featured Project
