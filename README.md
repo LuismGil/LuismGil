@@ -56,10 +56,10 @@ My main frontend project, built to showcase how I structure modern applications 
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuismGil&theme=react&show_icons=true&layout=compact&langs_count=6" alt="Top Languages" />
+    <img src="https://github-readme-stats-seven-henna-17.vercel.app/api/top-langs/?username=LuismGil&theme=react&show_icons=true&layout=compact&langs_count=6" alt="Top Languages" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuismGil&theme=react&show_icons=true" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats-seven-henna-17.vercel.app/api?username=LuismGil&theme=react&show_icons=true" alt="GitHub Stats" />
   </a>
 </p>
 
