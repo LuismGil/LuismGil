@@ -1,58 +1,59 @@
-## Hi there, I'm Luis 👋
+# Hi there, I'm Luis 👋
 
-Frontend Developer focused on building **modern, scalable and maintainable web applications** using modern JavaScript frameworks.
+Frontend Engineer focused on building **modern, scalable, and maintainable web applications**.
 
-- 🚀 Strong focus on **Vue 3 + TypeScript** (Quasar, Vite, Pinia)
-- 🧱 Passionate about **clean code, reusable components and good architecture**
-- 🎯 Experience with real-world UI patterns: forms, state management and API integration
-- 🌎 PT / ES + Technical English • Open to remote opportunities
-
-<br/>
----
-
-### ⭐ Featured Project
-
-**🎬 Movie Explorer** — Vue 3 + TypeScript  
-My main frontend project, built to showcase how I structure modern applications with **clean architecture principles** and **reusable UI components**.
-
-- Discover movies and TV shows using a public API
-- Typed components and global state management
-- Scalable folder structure and responsive UI
-
-🔗 **Repo:** https://github.com/LuismGil/movie-explorer
+- 🚀 Core stack: **Vue 3 + TypeScript** (Quasar, Vite, Pinia)
+- 🧱 Strong emphasis on **clean architecture, reusable components, and DX**
+- 🎯 Product-minded delivery: forms, state workflows, API integration, and performance
+- 🌎 Languages: PT / ES + Technical English • Open to remote opportunities (2026)
 
 ---
 
-### 🛠 Tech Stack
+## ⭐ Featured Project
 
-**Primary**
+### 🎬 Movie Explorer — Vue 3 + TypeScript
+A production-style frontend project that demonstrates:
+
+- Discovering movies and TV shows via public APIs
+- Typed components and predictable state management
+- Scalable folder structure and responsive UX
+- Maintainable architecture for long-term growth
+
+🔗 **Repository:** https://github.com/LuismGil/movie-explorer
+
+---
+
+## 🛠 Tech Stack (2026)
+
+### Primary
 - Vue 3
 - TypeScript
 - Quasar
 - Pinia
 - Vite
 
-**Secondary**
+### Also Working With
 - React
-- JavaScript (ES6+)
+- JavaScript (ESNext)
 
-**Styling**
+### Styling
 - Tailwind CSS
 - Sass
 - CSS3 / HTML5
 
-**Databases**
+### Data & Storage
 - PostgreSQL
 - MySQL
 - MongoDB
 
-**Tools**
+### Tooling
 - Git
 - GitHub
+- GitHub Actions
 
 ---
 
-### 📊 Performance Telemetry (GitHub Stats)
+## 📊 GitHub Stats
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -65,16 +66,16 @@ My main frontend project, built to showcase how I structure modern applications 
 
 ---
 
-### 🧠 What I care about
+## 🧠 Engineering Values
 
-- Writing **clean, readable and maintainable code**
-- Avoiding duplicated logic and “God components”
-- Building UIs that are easy for other developers to understand
-- Continuous learning and improvement
+- Write clear, maintainable code
+- Reduce duplication and accidental complexity
+- Build interfaces that are intuitive for users and developers
+- Keep learning and shipping better software
 
 ---
 
-### 📫 How to reach me
+## 📫 Contact
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giltorresluis/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:luism6977ma@gmail.com)
